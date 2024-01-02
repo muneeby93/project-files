@@ -3,7 +3,6 @@
 Below are listed all of the sql resources that we have so far:
 
 - [SQL-Practice](https://www.sql-practice.com/)
-
 - [Advanced SQL Puzzles](https://advancedsqlpuzzles.com/)
 - [SQL Bolt](https://sqlbolt.com/)
 - [SQL Exercises-RU](https://www.sql-ex.ru/)
